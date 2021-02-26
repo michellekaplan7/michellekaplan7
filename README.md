@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/michellekaplan7/michellekaplan7/main/github_banner.png "Header")](https://michellekaplan.dev/)
+
 ### Hi there <img src="https://raw.githubusercontent.com/michellekaplan7/michellekaplan7/main/wave.gif" width="30px">
 
 Here are some ideas to get you started:
