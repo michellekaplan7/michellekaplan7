@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/michellekaplan7/michellekaplan7/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/michellekaplan7/michellekaplan7/main/wave.gif" width="30px">
 
 Here are some ideas to get you started:
 
