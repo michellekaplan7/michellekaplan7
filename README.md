@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-<p style="font-size: 2rem;">Hi there! <img src="assets/wave.gif" width="40"/></p>
+<h2>Hi there! <img src="assets/wave.gif" width="40"/></h2>
 </div>
 
 My name is Michelle Kaplan and I am a software engineer! Being a former marketer, I am highly empathetic to the user, understand the user journey and implement human centered design to create intuitive, meaningful user experiences. 
