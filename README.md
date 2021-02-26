@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**michellekaplan7/michellekaplan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there <img src="https://raw.githubusercontent.com/michellekaplan7/michellekaplan7/master/wave.gif" width="30px">
 
 Here are some ideas to get you started:
 
