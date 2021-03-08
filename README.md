@@ -26,7 +26,7 @@ Let's build something together!
 
 - ✅ I recently completed my first professional software engineering contract with [Nanno](https://www.nanno.com/), working on their progressive web app using React and Redux
 - 👩‍💻 Now I am looking for my first full-time software engineering position
-- 🌱 I’m currently learning Vue.js and Docker
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about my favorite coffee spot
 - 😄 Pronouns: She / Her
 - 🎓 I am a proud graduate of the [Turing School of Software and Design](https://turing.io/) from the Front End Engineering program. I also have a Bachelor of Science in Business Administration, Marketing from [Colorado State University](https://www.colostate.edu/)
