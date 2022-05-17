@@ -21,6 +21,11 @@ Let's build something together!
     <img src="https://img.shields.io/badge/Portfolio_Website-24283D?style=for-the-badge" /> 
 </a>
 
+</br>
+</br>
+
+**Note: Gap in contribution history due to private company account.**
+
 ---
 ### Get to know me!
 
