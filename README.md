@@ -29,7 +29,7 @@ Let's build something together!
 ---
 ### Get to know me!
 
-- 👩‍💻 Currently a Software Engineer at [Kinsa](https://kinsahealth.com/)
+- 👩‍💻 Currently a Software Engineer at [Samsung](https://www.sra.samsung.com/)
 - 🌱 Next up: Python
 - 💬 Ask me about my favorite coffee spot
 - 😄 Pronouns: She / Her
